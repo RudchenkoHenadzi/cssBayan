@@ -84,6 +84,7 @@ body {
 }
 
 .accordion-item__descr p {
+  font-size: 18px;
   transform: scale(0);
   transition: all 0.25s;
 }
