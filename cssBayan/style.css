@@ -22,7 +22,7 @@ body {
 }
 
 .accordion:hover .accordion-item__title {
-  background-color: aqua;
+  background-color: rgba(34, 39, 78, 0.9);
 }
 
 .accordion-item {
@@ -61,7 +61,8 @@ body {
   justify-content: space-between;
   padding: 5px 10px;
   font-size: 24px;
-  background-color: aquamarine;
+  background-color: rgba(26, 31, 63, 0.7);
+  color: white;
 }
 
 .accordion-item__descr {
@@ -101,7 +102,7 @@ body {
 }
 
 .accordion-item__checkbox:checked+label .accordion-item__title {
-  background-color: cadetblue;
+  background-color: darkred;
   color: white;
 }
 
