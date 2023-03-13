@@ -11,6 +11,9 @@
   .accordion-item__descr {
     flex-direction: column;
   }
+  .h-mobile {
+    display: none;
+  }
 }
 
 @media (max-width: 420px) {
