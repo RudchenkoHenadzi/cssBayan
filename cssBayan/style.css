@@ -145,4 +145,5 @@ body {
   height: 24px;
   opacity: 0;
   transition: all 0.25s;
+  fill: #FFF;
 }
